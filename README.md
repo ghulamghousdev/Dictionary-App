@@ -7,7 +7,7 @@
 - Faisal Mehboob
 
 ## Introduction 
-This project requires to create a dictionary by allowing user to enter words and their meanings. Save them in file and then allow user to search any word. If it is not in the dictionary display error (not found). User should have option to enter new words any time.
+This project requires to create a dictionary by allowing user to enter words and their meanings. Save them in file and then allow user to search any word. If it is not in the dictionary display error (not found). Admin should have option to enter new words any time.
 
 
 ## Modules/parts
