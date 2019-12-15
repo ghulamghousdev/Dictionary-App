@@ -20,7 +20,6 @@ We have estimated the following modules for this project:
 - Edit existing word
 - Edit synonyms
 - Show synonyms of selected word
-- Graphical User Interface(GUI) using C#
 - Save words and synonyms in file
 - Retrieve existing data from the file
 - Word of the day
